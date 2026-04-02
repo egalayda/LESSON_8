@@ -2,10 +2,5 @@
   "scripts": {
     "build": "cd my-dashboard && npm install && npm run build",
     "dev": "cd my-dashboard && npm run dev"
-  },
-  "dependencies": {
-    "@mdi/font": "^7.4.47",
-    "chart.js": "^4.5.1",
-    "vue-chartjs": "^5.3.3"
   }
 }
